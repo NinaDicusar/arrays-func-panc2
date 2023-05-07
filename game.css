@@ -1,0 +1,32 @@
+body{
+    background-color: #123;
+}
+#map{
+    width: 500px;
+    height: 500px;
+    border:3px solid #666;
+}
+#map div{
+    width: 48px;
+    height: 48px;
+    border:1px solid #888;
+    float:left ;
+}
+#results{
+    width: 500px;
+    height: 50px;
+    border: 3px solid #777;
+    color:white;
+}
+#map .pac{
+    background-image: url(images/pac_man.png);
+}
+#map .coin{ 
+    background-image: url(images/coin.png);
+}#map .bomb{
+    background-image: url(images/Bomb.png);
+}
+#map .heart{
+    background-image: url(images/Heart.png);
+}
+
